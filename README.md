@@ -1,3 +1,3 @@
-<h1>Curso Python<h1>
+<h1>Curso Python</h1>
 
-Alguns projetos/exercicios desenvolvidos no curso de python
+<p>Alguns projetos/exercicios desenvolvidos no curso de python</p>
