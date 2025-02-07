@@ -1,2 +1,2 @@
-# cursopython
-Alguns projetos desenvolvidos no curso de python
+#Curso Python
+Alguns projetos/exercicios desenvolvidos no curso de python
