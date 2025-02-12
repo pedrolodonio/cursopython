@@ -1,3 +1,4 @@
-<h1>Curso Python</h1>
+# 🐍 Exercícios de Python  
 
-<p>Alguns projetos/exercicios desenvolvidos no curso de python</p>
+Este repositório contém soluções para diversos exercícios em Python, abordando conceitos como operadores aritméticos, estruturas condicionais e de repetição, funções, listas, tuplas, dicionários e conjuntos.
+
